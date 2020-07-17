@@ -1,3 +1,3 @@
 My name is Chanakan Ngamsiri
-I'm going to show you how I use git 
+My name is Kanyarak Kangkoontod 
 Let's start with git init
