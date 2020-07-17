@@ -1,3 +1,3 @@
 My name is Chanakan Ngamsiri
-My name is Kanyarak Kangkoontod 
+We love you
 My name is Butsaya Sakunwa
